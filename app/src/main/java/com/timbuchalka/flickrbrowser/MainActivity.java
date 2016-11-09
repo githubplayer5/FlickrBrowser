@@ -103,4 +103,5 @@ public class MainActivity extends BaseActivity implements GetFlickrJsonData.OnDa
     }
 
     //test branch changes
+    //test branch 2 changes
 }
